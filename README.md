@@ -1,6 +1,6 @@
 Desenvolvedor Júnior | Full Stack Developer | DevOps, Cursando Senai Informática em Desenvolvimento de Sistemas e Redes de Computadores.
 
-Linkedin: https://www.linkedin.com/in/luccavieiragentilezza/
+<img src="{https://www.linkedin.com/feed/}" />
 
 ![LuccaVG's Stats](https://github-readme-stats.vercel.app/api?username=LuccaVG&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
 
