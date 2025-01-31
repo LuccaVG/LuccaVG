@@ -1,4 +1,4 @@
-Desenvolvedor Júnior | Full Stack Developer | DevOps, Cursando Senai Informática em Desenvolvimento de Sistemas e Redes de Computadores.
+Técnico em Desenvolvimento de Sistemas, Técnico em Redes de Computadores, Tecnólogo em Segurança Cibernética pela Faculdade Senai São Paulo(Cursando).
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luccavieiragentilezza/)
 
