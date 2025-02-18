@@ -5,9 +5,9 @@ Técnico em Desenvolvimento de Sistemas, Técnico em Redes de Computadores, Tecn
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luccavieiragentilezza/)
 
 ## 🛠 Habilidades
-- **Linguagens de Programação**: Python, JavaScript, C, C++
+- **Linguagens de Programação**: Python, JavaScript, C, C++, C#
 - **Desenvolvimento Web**: HTML, CSS, React, Node.js
-- **Gestão de Banco de Dados**: MySQL, PostgreSQL
+- **Gestão de Banco de Dados**: MySQL, MsSQL, MongoDB
 - **Redes**: TCP/IP, DNS, DHCP
 - **Segurança Cibernética**: Ethical Hacking, Testes de Penetração, Segurança de Redes
 
@@ -44,9 +44,9 @@ Técnico em Desenvolvimento de Sistemas, Técnico em Redes de Computadores, Tecn
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luccavieiragentilezza/)
 
 ## 🛠 Skills
-- **Programming Languages**: Python, JavaScript, C, C++
+- **Programming Languages**: Python, JavaScript, C, C++, C#
 - **Web Development**: HTML, CSS, React, Node.js
-- **Database Management**: MySQL, PostgreSQL
+- **Database Management**: MySQL, MsSQL, MongoDB
 - **Networking**: TCP/IP, DNS, DHCP
 - **Cybersecurity**: Ethical Hacking, Penetration Testing, Network Security
 
