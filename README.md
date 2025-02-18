@@ -42,7 +42,7 @@ Obrigado por visitar meu perfil!
 
 # Lucca Vieira Gentilezza
 
-Technician in Systems Development, Technician in Computer Networks, Technologist in Cybersecurity at Senai São Paulo College (Ongoing).
+Technician in System Development, Technician in Computer Networks, Technologist in Cybersecurity at Senai São Paulo College (Ongoing).
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luccavieiragentilezza/) 
 <a href="Lucca%20Vieira%20Gentilezza.pdf">
