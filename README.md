@@ -28,7 +28,7 @@ Técnico em Desenvolvimento de Sistemas, Técnico em Redes de Computadores, Tecn
 
 ## 📫 Como me encontrar
 - LinkedIn: [Lucca Vieira Gentilezza](https://www.linkedin.com/in/luccavieiragentilezza/)
-- Email: luccavg@example.com
+- Email: luccavgentilezza@gmail.com
 
 ## 💬 Sobre mim
 Sou apaixonado por tecnologia e estou constantemente buscando oportunidades para aprender e crescer na área de segurança cibernética. Gosto de resolver problemas complexos e estou sempre pronto para um desafio.
@@ -67,7 +67,7 @@ Técnico em Desenvolvimento de Sistemas, Técnico em Redes de Computadores, Tecn
 
 ## 📫 How to reach me
 - LinkedIn: [Lucca Vieira Gentilezza](https://www.linkedin.com/in/luccavieiragentilezza/)
-- Email: luccavg@example.com
+- Email: luccavgentilezza@gmail.com
 
 ## 💬 More About Me
 I am passionate about technology and constantly seeking opportunities to learn and grow in the field of cybersecurity. I enjoy solving complex problems and am always up for a challenge.
