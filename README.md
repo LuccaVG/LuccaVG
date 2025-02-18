@@ -2,7 +2,7 @@
 
 Técnico em Desenvolvimento de Sistemas, Técnico em Redes de Computadores, Tecnólogo em Segurança Cibernética pela Faculdade Senai São Paulo (Cursando).
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luccavieiragentilezza/) 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luccavieiragentilezza/)
 <a href="Lucca%20Vieira%20Gentilezza.pdf">
     <img src="https://img.shields.io/badge/Curr%C3%ADculo-blue?style=for-the-badge&logoColor=white&color=grey" width="110" height="28" alt="Currículo" style="font-family: 'Helvetica', sans-serif; font-weight: normal; display: flex; align-items: center; justify-content: center;">
 </a>
@@ -17,7 +17,7 @@ Técnico em Desenvolvimento de Sistemas, Técnico em Redes de Computadores, Tecn
 ## 📈 Estatísticas do GitHub
 ![LuccaVG's Stats](https://github-readme-stats.vercel.app/api?username=LuccaVG&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
 
-![LuccaVG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaVG&theme=tokyonight&show_icons=true&hide_border=true)
+![LuccaVG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaVG&theme=tokyonight&show_icons=true&hide_border=true&langs_count=10&layout=compact)
 
 ## 📚 Atualmente Aprendendo
 - Técnicas Avançadas de Segurança Cibernética
@@ -44,7 +44,7 @@ Obrigado por visitar meu perfil!
 
 Technician in System Development, Technician in Computer Networks, Technologist in Cybersecurity at Senai São Paulo College (Ongoing).
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luccavieiragentilezza/) 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luccavieiragentilezza/)
 <a href="Lucca%20Vieira%20Gentilezza.pdf">
     <img src="https://img.shields.io/badge/Curriculum-blue?style=for-the-badge&logoColor=white&color=grey" width="110" height="28" alt="Curriculum" style="font-family: 'Helvetica', sans-serif; font-weight: normal; display: flex; align-items: center; justify-content: center;">
 </a>
@@ -59,7 +59,7 @@ Technician in System Development, Technician in Computer Networks, Technologist 
 ## 📈 GitHub Stats
 ![LuccaVG's Stats](https://github-readme-stats.vercel.app/api?username=LuccaVG&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
 
-![LuccaVG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaVG&theme=tokyonight&show_icons=true&hide_border=true)
+![LuccaVG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaVG&theme=tokyonight&show_icons=true&hide_border=true&langs_count=10&layout=compact)
 
 ## 📚 Currently Learning
 - Advanced Cybersecurity Techniques
