@@ -4,7 +4,7 @@ Técnico em Desenvolvimento de Sistemas, Técnico em Redes de Computadores, Tecn
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luccavieiragentilezza/) 
 <a href="Lucca%20Vieira%20Gentilezza.pdf">
-    <img src="https://img.shields.io/badge/Curr%C3%ADculo-blue?style=flat-square&logoColor=white&color=grey" width="91" height="38" alt="Currículo">
+    <img src="https://img.shields.io/badge/Curr%C3%ADculo-blue?style=for-the-badge&logoColor=white&color=grey" width="110" height="28" alt="Currículo" style="font-family: 'Helvetica', sans-serif; font-weight: normal; display: flex; align-items: center; justify-content: center;">
 </a>
 
 ## 🛠 Habilidades
@@ -46,7 +46,7 @@ Technician in Systems Development, Technician in Computer Networks, Technologist
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luccavieiragentilezza/) 
 <a href="Lucca%20Vieira%20Gentilezza.pdf">
-    <img src="https://img.shields.io/badge/Curriculum-blue?style=flat-square&logoColor=white&color=grey" width="91" height="38" alt="Curriculum">
+    <img src="https://img.shields.io/badge/Curriculum-blue?style=for-the-badge&logoColor=white&color=grey" width="110" height="28" alt="Curriculum" style="font-family: 'Helvetica', sans-serif; font-weight: normal; display: flex; align-items: center; justify-content: center;">
 </a>
 
 ## 🛠 Skills
