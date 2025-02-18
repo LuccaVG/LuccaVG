@@ -2,8 +2,7 @@
 
 Técnico em Desenvolvimento de Sistemas, Técnico em Redes de Computadores, Tecnólogo em Segurança Cibernética pela Faculdade Senai São Paulo (Cursando).
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luccavieiragentilezza/) [![**Currículo**](https://img.shields.io/badge/Currículo-blue?style=flat-square&logoColor=white&color=grey)](Lucca%20Vieira%20Gentilezza.pdf).
-
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luccavieiragentilezza/) [![**Currículo**](https://img.shields.io/badge/Currículo-blue?style=flat-square&logoColor=white&color=grey&logoWidth=91&logoHeight=38)](Lucca%20Vieira%20Gentilezza.pdf)
 ## 🛠 Habilidades
 - **Linguagens de Programação**: Python, JavaScript, C, C++, C#
 - **Desenvolvimento Web**: HTML, CSS, React, Node.js
@@ -41,7 +40,7 @@ Obrigado por visitar meu perfil!
 
 Technician in Systems Development, Technician in Computer Networks, Technologist in Cybersecurity at Senai São Paulo College (Ongoing).
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luccavieiragentilezza/) [![**Curriculum**](https://img.shields.io/badge/Curriculum-blue?style=flat-square&logoColor=white&color=grey)](Lucca%20Vieira%20Gentilezza.pdf).
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luccavieiragentilezza/) [![**Curriculum**](https://img.shields.io/badge/Curriculum-blue?style=flat-square&logoColor=white&color=grey&logoWidth=91&logoHeight=38)](Lucca%20Vieira%20Gentilezza.pdf)
 
 ## 🛠 Skills
 - **Programming Languages**: Python, JavaScript, C, C++, C#
