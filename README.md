@@ -11,7 +11,7 @@ Técnico em Desenvolvimento de Sistemas, Técnico em Redes de Computadores, Tecn
 - **Linguagens de Programação**: Python, JavaScript, C, C++, C#
 - **Desenvolvimento Web**: HTML, CSS, React, Node.js
 - **Gestão de Banco de Dados**: MySQL, MsSQL, MongoDB
-- **Redes**: TCP/IP, IPv4, IPv6, ICMP, UDP, RTP, DNS, DHCP, SSH, HTTP/HTTPS
+- **Redes**: DHCP, DNS, HTTP/HTTPS, ICMP, IPv4, IPv6, RTP, SSH, TCP/IP, UDP
 - **Segurança Cibernética**: Ethical Hacking, Testes de Penetração, Segurança de Redes
 
 ## 📈 Estatísticas do GitHub
@@ -53,7 +53,7 @@ Technician in System Development, Technician in Computer Networks, Technologist 
 - **Programming Languages**: Python, JavaScript, C, C++, C#
 - **Web Development**: HTML, CSS, React, Node.js
 - **Database Management**: MySQL, MsSQL, MongoDB
-- **Networking**: TCP/IP, IPv4, IPv6, ICMP, UDP, RTP, DNS, DHCP, SSH, HTTP/HTTPS
+- **Networking**: DHCP, DNS, HTTP/HTTPS, ICMP, IPv4, IPv6, RTP, SSH, TCP/IP, UDP
 - **Cybersecurity**: Ethical Hacking, Penetration Testing, Network Security
 
 ## 📈 GitHub Stats
