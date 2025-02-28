@@ -15,7 +15,7 @@ Técnico em Desenvolvimento de Sistemas, Técnico em Redes de Computadores, Tecn
 - **Segurança Cibernética**: Ethical Hacking, Testes de Penetração, Segurança de Redes
 
 ## 📈 Estatísticas do GitHub
-![LuccaVG's Stats](https://github-readme-stats.vercel.app/api?username=LuccaVG&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
+![LuccaVG's Stats](https://github-readme-stats.vercel.app/api?username=LuccaVG&theme=tokyonight&show)
 
 ![LuccaVG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaVG&theme=tokyonight&show)
 
@@ -57,7 +57,7 @@ Technician in System Development, Technician in Computer Networks, Technologist 
 - **Cybersecurity**: Ethical Hacking, Penetration Testing, Network Security
 
 ## 📈 GitHub Stats
-![LuccaVG's Stats](https://github-readme-stats.vercel.app/api?username=LuccaVG&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
+![LuccaVG's Stats](https://github-readme-stats.vercel.app/api?username=LuccaVG&theme=tokyonight&show)
 
 ![LuccaVG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaVG&theme=tokyonight&show)
 
