@@ -2,7 +2,7 @@
 
 Técnico em Desenvolvimento de Sistemas, Técnico em Redes de Computadores, Tecnólogo em Segurança Cibernética pela Faculdade Senai São Paulo (Cursando).
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luccavieiragentilezza/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luccavg/)
 <a href="Lucca%20Vieira%20Gentilezza.pdf">
     <img src="https://img.shields.io/badge/Curr%C3%ADculo-blue?style=for-the-badge&logoColor=white&color=grey" width="110" height="28" alt="Currículo" style="font-family: 'Helvetica', sans-serif; font-weight: normal; display: flex; align-items: center; justify-content: center;">
 </a>
