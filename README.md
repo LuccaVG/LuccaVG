@@ -54,9 +54,9 @@ Technician in System Development, Technician in Computer Networks, Technologist 
 - **Programming Languages**: Python, JavaScript, C, C++, C#
 - **Web Development**: HTML, CSS, React, Node.js
 - **Database Management**: MySQL, MsSQL, MongoDB
-- **Network**: Network Operations Center, Linux Server, Windows Server
+- **Network**: Network Operations Center (NOC), Linux Server, Windows Server
 - **Network Protocols**: DHCP, DNS, HTTP/HTTPS, ICMP, IPv4, IPv6, RTP, SSH, TCP/IP, UDP
-- **Cybersecurity**: Security Operations Center, Ethical Hacking, Network Security
+- **Cybersecurity**: Security Operations Center (SOC), Ethical Hacking, Network Security
 
 ## 📈 GitHub Stats
 ![LuccaVG's Stats](https://github-readme-stats.vercel.app/api?username=LuccaVG&theme=tokyonight&show)
