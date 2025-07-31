@@ -30,7 +30,7 @@ Técnico em Desenvolvimento de Sistemas, Técnico em Redes de Computadores, Tecn
 - Obter certificações em AWS e Ethical Hacking
 
 ## 📫 Como me encontrar
-- LinkedIn: [Lucca Vieira Gentilezza](https://www.linkedin.com/in/luccavieiragentilezza/)
+- LinkedIn: [Lucca Vieira Gentilezza](https://www.linkedin.com/in/luccavg/)
 - Email: luccavgentilezza@gmail.com
 
 ## 💬 Sobre mim
@@ -53,8 +53,9 @@ Technician in System Development, Technician in Computer Networks, Technologist 
 - **Programming Languages**: Python, JavaScript, C, C++, C#
 - **Web Development**: HTML, CSS, React, Node.js
 - **Database Management**: MySQL, MsSQL, MongoDB
-- **Networking**: DHCP, DNS, HTTP/HTTPS, ICMP, IPv4, IPv6, RTP, SSH, TCP/IP, UDP
-- **Cybersecurity**: Ethical Hacking, Network Security
+- **Networking**: Network Operations Center, Linux Server, Windows Server
+- **Network Protocols**: DHCP, DNS, HTTP/HTTPS, ICMP, IPv4, IPv6, RTP, SSH, TCP/IP, UDP
+- **Cybersecurity**: Security Operations Center, Ethical Hacking, Network Security
 
 ## 📈 GitHub Stats
 ![LuccaVG's Stats](https://github-readme-stats.vercel.app/api?username=LuccaVG&theme=tokyonight&show)
@@ -72,7 +73,7 @@ Technician in System Development, Technician in Computer Networks, Technologist 
 - Obtain certifications in AWS and Ethical Hacking
 
 ## 📫 How to reach me
-- LinkedIn: [Lucca Vieira Gentilezza](https://www.linkedin.com/in/luccavieiragentilezza/)
+- LinkedIn: [Lucca Vieira Gentilezza](https://www.linkedin.com/in/luccavg/)
 - Email: luccavgentilezza@gmail.com
 
 ## 💬 More About Me
