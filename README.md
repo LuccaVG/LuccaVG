@@ -7,7 +7,7 @@ Técnico em Desenvolvimento de Sistemas, Técnico em Redes de Computadores, Tecn
     <img src="https://img.shields.io/badge/Curr%C3%ADculo-blue?style=for-the-badge&logoColor=white&color=grey" width="110" height="28" alt="Currículo" style="font-family: 'Helvetica', sans-serif; font-weight: normal; display: flex; align-items: center; justify-content: center;">
 </a>
 
-## 🛠 Habilidades
+## Habilidades
 - **Linguagens de Programação**: Python, JavaScript, C, C++, C#
 - **Desenvolvimento Web**: HTML, CSS, React, Node.js
 - **Gestão de Banco de Dados**: MySQL, MsSQL, MongoDB
@@ -15,26 +15,26 @@ Técnico em Desenvolvimento de Sistemas, Técnico em Redes de Computadores, Tecn
 - **Protocolos de Rede**: DHCP, DNS, HTTP/HTTPS, ICMP, IPv4, IPv6, RTP, SSH, TCP/IP, UDP
 - **Segurança Cibernética**: Centro de Operações de Segurança (SOC), Ethical Hacking, Segurança de Redes
 
-## 📈 Estatísticas do GitHub
+## Estatísticas do GitHub
 ![LuccaVG's Stats](https://github-readme-stats.vercel.app/api?username=LuccaVG&theme=tokyonight&show)
 
 ![LuccaVG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaVG&theme=tokyonight&show)
 
-## 📚 Atualmente Aprendendo
+## Atualmente Aprendendo
 - Técnicas Avançadas de Segurança Cibernética
 - Computação em Nuvem (AWS, Azure)
 - Práticas e Ferramentas DevOps
 
-## 🎯 Metas para 2025
+## Metas para 2025
 - Concluir meu curso em Segurança Cibernética
 - Contribuir para projetos de código aberto
 - Obter certificações em AWS e Ethical Hacking
 
-## 📫 Como me encontrar
+## Como me encontrar
 - LinkedIn: [Lucca Vieira Gentilezza](https://www.linkedin.com/in/luccavg/)
 - Email: luccavgentilezza@gmail.com
 
-## 💬 Sobre mim
+## Sobre mim
 Sou apaixonado por tecnologia e estou constantemente buscando oportunidades para aprender e crescer na área de segurança cibernética. Gosto de resolver problemas complexos e estou sempre pronto para um desafio.
 
 Obrigado por visitar meu perfil!
@@ -50,7 +50,7 @@ Technician in System Development, Technician in Computer Networks, Technologist 
     <img src="https://img.shields.io/badge/Curriculum-blue?style=for-the-badge&logoColor=white&color=grey" width="110" height="28" alt="Curriculum" style="font-family: 'Helvetica', sans-serif; font-weight: normal; display: flex; align-items: center; justify-content: center;">
 </a>
 
-## 🛠 Skills
+## Skills
 - **Programming Languages**: Python, JavaScript, C, C++, C#
 - **Web Development**: HTML, CSS, React, Node.js
 - **Database Management**: MySQL, MsSQL, MongoDB
@@ -58,26 +58,26 @@ Technician in System Development, Technician in Computer Networks, Technologist 
 - **Network Protocols**: DHCP, DNS, HTTP/HTTPS, ICMP, IPv4, IPv6, RTP, SSH, TCP/IP, UDP
 - **Cybersecurity**: Security Operations Center (SOC), Ethical Hacking, Network Security
 
-## 📈 GitHub Stats
+## GitHub Stats
 ![LuccaVG's Stats](https://github-readme-stats.vercel.app/api?username=LuccaVG&theme=tokyonight&show)
 
 ![LuccaVG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaVG&theme=tokyonight&show)
 
-## 📚 Currently Learning
+## Currently Learning
 - Advanced Cybersecurity Techniques
 - Cloud Computing (AWS, Azure)
 - DevOps Practices and Tools
 
-## 🎯 Goals for 2025
+## Goals for 2025
 - Complete my degree in Cybersecurity
 - Contribute to open-source projects
 - Obtain certifications in AWS and Ethical Hacking
 
-## 📫 How to reach me
+## How to reach me
 - LinkedIn: [Lucca Vieira Gentilezza](https://www.linkedin.com/in/luccavg/)
 - Email: luccavgentilezza@gmail.com
 
-## 💬 More About Me
+## More About Me
 I am passionate about technology and constantly seeking opportunities to learn and grow in the field of cybersecurity. I enjoy solving complex problems and am always up for a challenge.
 
 Thank you for visiting my profile!
