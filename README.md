@@ -16,9 +16,9 @@ Técnico em Desenvolvimento de Sistemas, Técnico em Redes de Computadores, Tecn
 - **Segurança Cibernética**: Centro de Operações de Segurança (SOC), Ethical Hacking, Segurança de Redes
 
 ## Estatísticas do GitHub
-![LuccaVG's Stats](https://github-readme-stats.vercel.app/api?username=LuccaVG&theme=tokyonight&show)
+![LuccaVG's Stats](https://github-readme-stats.vercel.app/api?username=LuccaVG)
 
-![LuccaVG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaVG&theme=tokyonight&show)
+![LuccaVG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaVG)
 
 ## Atualmente Aprendendo
 - Técnicas Avançadas de Segurança Cibernética
@@ -59,9 +59,9 @@ Technician in System Development, Technician in Computer Networks, Technologist 
 - **Cybersecurity**: Security Operations Center (SOC), Ethical Hacking, Network Security
 
 ## GitHub Stats
-![LuccaVG's Stats](https://github-readme-stats.vercel.app/api?username=LuccaVG&theme=tokyonight&show)
+![LuccaVG's Stats](https://github-readme-stats.vercel.app/api?username=LuccaVG)
 
-![LuccaVG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaVG&theme=tokyonight&show)
+![LuccaVG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaVG)
 
 ## Currently Learning
 - Advanced Cybersecurity Techniques
