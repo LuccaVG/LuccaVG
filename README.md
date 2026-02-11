@@ -15,11 +15,6 @@ Técnico em Desenvolvimento de Sistemas, Técnico em Redes de Computadores, Tecn
 - **Protocolos de Rede**: DHCP, DNS, HTTP/HTTPS, ICMP, IPv4, IPv6, RTP, SSH, TCP/IP, UDP
 - **Segurança Cibernética**: Centro de Operações de Segurança (SOC), Ethical Hacking, Segurança de Redes
 
-## Estatísticas do GitHub
-![LuccaVG's Stats](https://github-readme-stats.vercel.app/api?username=LuccaVG)
-
-![LuccaVG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaVG)
-
 ## Atualmente Aprendendo
 - Técnicas Avançadas de Segurança Cibernética
 - Computação em Nuvem (AWS, Azure)
@@ -57,11 +52,6 @@ Technician in System Development, Technician in Computer Networks, Technologist 
 - **Network**: Network Operations Center (NOC), Linux Server, Windows Server
 - **Network Protocols**: DHCP, DNS, HTTP/HTTPS, ICMP, IPv4, IPv6, RTP, SSH, TCP/IP, UDP
 - **Cybersecurity**: Security Operations Center (SOC), Ethical Hacking, Network Security
-
-## GitHub Stats
-![LuccaVG's Stats](https://github-readme-stats.vercel.app/api?username=LuccaVG)
-
-![LuccaVG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaVG)
 
 ## Currently Learning
 - Advanced Cybersecurity Techniques
