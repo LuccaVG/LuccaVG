@@ -20,10 +20,10 @@ Técnico em Desenvolvimento de Sistemas, Técnico em Redes de Computadores, Tecn
 - Computação em Nuvem (AWS, Azure)
 - Práticas e Ferramentas DevOps
 
-## Metas para 2025
+## Metas para 2026
 - Concluir meu curso em Segurança Cibernética
 - Contribuir para projetos de código aberto
-- Obter certificações em AWS e Ethical Hacking
+- Obter certificações em Cybersegurança
 
 ## Como me encontrar
 - LinkedIn: [Lucca Vieira Gentilezza](https://www.linkedin.com/in/luccavg/)
@@ -58,10 +58,10 @@ Technician in System Development, Technician in Computer Networks, Technologist 
 - Cloud Computing (AWS, Azure)
 - DevOps Practices and Tools
 
-## Goals for 2025
+## Goals for 2026
 - Complete my degree in Cybersecurity
 - Contribute to open-source projects
-- Obtain certifications in AWS and Ethical Hacking
+- Obtain certifications in Cybersecurity
 
 ## How to reach me
 - LinkedIn: [Lucca Vieira Gentilezza](https://www.linkedin.com/in/luccavg/)
