@@ -23,7 +23,7 @@ Técnico em Desenvolvimento de Sistemas, Técnico em Redes de Computadores, Tecn
 ## Metas para 2026
 - Concluir meu curso em Segurança Cibernética
 - Contribuir para projetos de código aberto
-- Obter certificações em Cybersegurança
+- Obter certificações em Cibersegurança
 
 ## Como me encontrar
 - LinkedIn: [Lucca Vieira Gentilezza](https://www.linkedin.com/in/luccavg/)
