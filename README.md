@@ -1,73 +1,107 @@
 # Lucca Vieira Gentilezza
 
-Técnico em Desenvolvimento de Sistemas, Técnico em Redes de Computadores, Tecnólogo em Segurança Cibernética pela Faculdade Senai São Paulo (Cursando).
+**Cybersecurity | Computer Networks | Infrastructure | Cloud**
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luccavg/)
-<a href="LUCCA%20VIEIRA%20GENTILEZZA.pdf">
-    <img src="https://img.shields.io/badge/Curr%C3%ADculo-blue?style=for-the-badge&logoColor=white&color=grey" width="110" height="28" alt="Currículo" style="font-family: 'Helvetica', sans-serif; font-weight: normal; display: flex; align-items: center; justify-content: center;">
-</a>
+Técnico em **Desenvolvimento de Sistemas** e **Redes de Computadores**, atualmente cursando **Tecnologia em Segurança Cibernética no SENAI-SP**.
 
-## Habilidades
-- **Linguagens de Programação**: Python, JavaScript, C, C++, C#
-- **Desenvolvimento Web**: HTML, CSS, React, Node.js
-- **Gestão de Banco de Dados**: MySQL, MsSQL, MongoDB
-- **Redes**: Centro de Operações de Rede (NOC), Servidor Linux, Servidor Windows
-- **Protocolos de Rede**: DHCP, DNS, HTTP/HTTPS, ICMP, IPv4, IPv6, RTP, SSH, TCP/IP, UDP
-- **Segurança Cibernética**: Centro de Operações de Segurança (SOC), Ethical Hacking, Segurança de Redes
-
-## Atualmente Aprendendo
-- Técnicas Avançadas de Segurança Cibernética
-- Computação em Nuvem (AWS, Azure)
-- Práticas e Ferramentas DevOps
-
-## Metas para 2027
-- Concluir meu curso em Segurança Cibernética
-- Contribuir para projetos de código aberto
-- Obter certificações em Cibersegurança
-
-## Como me encontrar
-- LinkedIn: [Lucca Vieira Gentilezza](https://www.linkedin.com/in/luccavg/)
-- Email: luccavgentilezza@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccavg/)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/LuccaVG)
+[![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-555555?style=for-the-badge&logo=readthedocs&logoColor=white)](LUCCA%20VIEIRA%20GENTILEZZA.pdf)
 
 ## Sobre mim
-Sou apaixonado por tecnologia e estou constantemente buscando oportunidades para aprender e crescer na área de segurança cibernética. Gosto de resolver problemas complexos e estou sempre pronto para um desafio.
 
-Obrigado por visitar meu perfil!
+Meus estudos e projetos são voltados para **Segurança Cibernética, Redes de Computadores, Infraestrutura e Cloud Computing**, com prática em laboratórios envolvendo **Linux, Windows Server, virtualização, monitoramento, análise de tráfego e segurança de redes**.
+
+Tenho contato prático com ferramentas e tecnologias como **Wireshark, TShark, Wazuh, Zabbix, Sysmon, Hayabusa, Nmap, pfSense, MikroTik RouterOS, VMware e VirtualBox**, além de ambientes **AWS, Microsoft Azure e Google Cloud**.
+
+## Conhecimentos técnicos
+
+- **Segurança:** SOC, análise de logs e eventos, fundamentos de resposta a incidentes, hardening, gestão de vulnerabilidades, IAM, MFA, ISO/IEC 27001 e segurança de redes.
+- **Redes:** TCP/IP, IPv4/IPv6, VLANs, switching, roteamento, NAT, DNS, DHCP, VPN, WLAN, HTTP/HTTPS, SSH, ICMP e UDP.
+- **Sistemas:** Linux, Kali Linux, Debian, Windows 10/11 e Windows Server 2019/2022.
+- **Cloud:** AWS, Microsoft Azure, Google Cloud, VPC, subnets, IAM, Security Groups e AWS CLI.
+- **Programação e automação:** Python, PowerShell, Bash, PHP, JavaScript, C, C++, C# e Node.js.
+- **Bancos de dados:** MySQL, Microsoft SQL Server e MongoDB.
+- **Versionamento:** Git, GitHub e GitLab.
+
+## Certificações e formação complementar
+
+- **ISC2 Certified in Cybersecurity (CC)**
+- **Fortinet NSE 2**
+- **Fortinet NSE 3 / Fortinet Certified Associate in Cybersecurity**
+- **AWS re/Start — Escola da Nuvem**
+- **AWS Academy Cloud Foundations**
+- **Microsoft Azure Fundamentals**
+- **Google Cloud Computing Foundations**
+- Formação em fundamentos de redes com conteúdos do **Cisco CCNA**
+- Curso de Redes — **NIC.br**
+
+## Atualmente estudando
+
+- Segurança Cibernética
+- Segurança de Redes
+- Cloud Computing
+- Monitoramento e resposta a incidentes
+- Automação aplicada à infraestrutura e segurança
+
+## Contato
+
+- **LinkedIn:** [Lucca Vieira Gentilezza](https://www.linkedin.com/in/luccavg/)
+- **GitLab:** [LuccaVG](https://gitlab.com/LuccaVG)
+- **E-mail:** luccavgentilezza@gmail.com
 
 ---
 
-# Lucca Vieira Gentilezza
+# English
 
-Technician in System Development, Technician in Computer Networks, Technologist in Cybersecurity at Senai São Paulo College (Ongoing).
+## Lucca Vieira Gentilezza
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luccavg/)
-<a href="LUCCA%20VIEIRA%20GENTILEZZA.pdf">
-    <img src="https://img.shields.io/badge/Curriculum-blue?style=for-the-badge&logoColor=white&color=grey" width="110" height="28" alt="Curriculum" style="font-family: 'Helvetica', sans-serif; font-weight: normal; display: flex; align-items: center; justify-content: center;">
-</a>
+**Cybersecurity | Computer Networks | Infrastructure | Cloud**
 
-## Skills
-- **Programming Languages**: Python, JavaScript, C, C++, C#
-- **Web Development**: HTML, CSS, React, Node.js
-- **Database Management**: MySQL, MsSQL, MongoDB
-- **Network**: Network Operations Center (NOC), Linux Server, Windows Server
-- **Network Protocols**: DHCP, DNS, HTTP/HTTPS, ICMP, IPv4, IPv6, RTP, SSH, TCP/IP, UDP
-- **Cybersecurity**: Security Operations Center (SOC), Ethical Hacking, Network Security
+Technician in **Systems Development** and **Computer Networks**, currently pursuing a degree in **Cybersecurity Technology at SENAI-SP**.
 
-## Currently Learning
-- Advanced Cybersecurity Techniques
-- Cloud Computing (AWS, Azure)
-- DevOps Practices and Tools
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccavg/)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/LuccaVG)
+[![Resume](https://img.shields.io/badge/Resume-555555?style=for-the-badge&logo=readthedocs&logoColor=white)](LUCCA%20VIEIRA%20GENTILEZZA.pdf)
 
-## Goals for 2027
-- Complete my degree in Cybersecurity
-- Contribute to open-source projects
-- Obtain certifications in Cybersecurity
+## About me
 
-## How to reach me
-- LinkedIn: [Lucca Vieira Gentilezza](https://www.linkedin.com/in/luccavg/)
-- Email: luccavgentilezza@gmail.com
+My studies and projects focus on **Cybersecurity, Computer Networks, Infrastructure and Cloud Computing**, with hands-on lab work involving **Linux, Windows Server, virtualization, monitoring, traffic analysis and network security**.
 
-## More About Me
-I am passionate about technology and constantly seeking opportunities to learn and grow in the field of cybersecurity. I enjoy solving complex problems and am always up for a challenge.
+I have practical exposure to tools and technologies including **Wireshark, TShark, Wazuh, Zabbix, Sysmon, Hayabusa, Nmap, pfSense, MikroTik RouterOS, VMware and VirtualBox**, as well as **AWS, Microsoft Azure and Google Cloud** environments.
 
-Thank you for visiting my profile!
+## Technical skills
+
+- **Security:** SOC, log and event analysis, incident response fundamentals, hardening, vulnerability management, IAM, MFA, ISO/IEC 27001 and network security.
+- **Networking:** TCP/IP, IPv4/IPv6, VLANs, switching, routing, NAT, DNS, DHCP, VPN, WLAN, HTTP/HTTPS, SSH, ICMP and UDP.
+- **Systems:** Linux, Kali Linux, Debian, Windows 10/11 and Windows Server 2019/2022.
+- **Cloud:** AWS, Microsoft Azure, Google Cloud, VPC, subnets, IAM, Security Groups and AWS CLI.
+- **Programming & automation:** Python, PowerShell, Bash, PHP, JavaScript, C, C++, C# and Node.js.
+- **Databases:** MySQL, Microsoft SQL Server and MongoDB.
+- **Version control:** Git, GitHub and GitLab.
+
+## Certifications & additional training
+
+- **ISC2 Certified in Cybersecurity (CC)**
+- **Fortinet NSE 2**
+- **Fortinet NSE 3 / Fortinet Certified Associate in Cybersecurity**
+- **AWS re/Start — Escola da Nuvem**
+- **AWS Academy Cloud Foundations**
+- **Microsoft Azure Fundamentals**
+- **Google Cloud Computing Foundations**
+- Networking fundamentals based on **Cisco CCNA** content
+- Networking Course — **NIC.br**
+
+## Currently learning
+
+- Cybersecurity
+- Network Security
+- Cloud Computing
+- Security monitoring and incident response
+- Infrastructure and security automation
+
+## Contact
+
+- **LinkedIn:** [Lucca Vieira Gentilezza](https://www.linkedin.com/in/luccavg/)
+- **GitLab:** [LuccaVG](https://gitlab.com/LuccaVG)
+- **Email:** luccavgentilezza@gmail.com
