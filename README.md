@@ -34,7 +34,6 @@ Tenho contato prático com ferramentas e tecnologias como **Wireshark, TShark, W
 - **Microsoft Azure Fundamentals**
 - **Google Cloud Computing Foundations**
 - Formação em fundamentos de redes com conteúdos do **Cisco CCNA**
-- Curso de Redes — **NIC.br**
 
 ## Atualmente estudando
 
@@ -90,7 +89,6 @@ I have practical exposure to tools and technologies including **Wireshark, TShar
 - **Microsoft Azure Fundamentals**
 - **Google Cloud Computing Foundations**
 - Networking fundamentals based on **Cisco CCNA** content
-- Networking Course — **NIC.br**
 
 ## Currently learning
 
