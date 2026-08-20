@@ -71,16 +71,26 @@ Minha formação complementar inclui conteúdos de **AWS, Linux, Terraform, Fort
 
 ## Stack técnica
 
-### Cybersecurity & Monitoring
+### Cybersecurity
 
 <p>
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge" alt="Wazuh">
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet">
+</p>
+
+`Segurança da Informação` `Wazuh` `Triagem de Incidentes` `Firewall` `IAM` `MFA`
+
+---
+
+### Monitoring
+
+<p>
   <img src="https://img.shields.io/badge/Sysmon-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Sysmon">
   <img src="https://img.shields.io/badge/Hayabusa-Log%20Analysis-333333?style=for-the-badge" alt="Hayabusa">
   <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix">
 </p>
 
-`Segurança da Informação` `Monitoramento de Alertas` `Análise de Logs` `Triagem de Incidentes` `Firewall` `IAM` `MFA`
+`Monitoramento de Alertas` `Análise de Logs` `Sysmon` `Hayabusa` `Zabbix`
 
 ---
 
@@ -134,8 +144,8 @@ Minha formação complementar inclui conteúdos de **AWS, Linux, Terraform, Fort
 
 | Área | Tecnologias e conhecimentos |
 |---|---|
-| **Segurança Cibernética** | Segurança da Informação, monitoramento de alertas, análise inicial de logs, triagem de incidentes |
-| **Security Monitoring** | Wazuh, Sysmon, Hayabusa, Zabbix |
+| **Segurança Cibernética** | Wazuh, Segurança da Informação, triagem de incidentes, firewall, IAM, MFA |
+| **Monitoring** | Sysmon, Hayabusa, Zabbix, monitoramento de alertas, análise inicial de logs |
 | **Redes de Computadores** | Wireshark, TCP/IP, DNS, VPN, VLAN, NAT, DHCP, endereçamento IP |
 | **Infraestrutura de Rede** | MikroTik, pfSense, roteadores, switches, cabeamento estruturado |
 | **Identidade e Acesso** | Active Directory, IAM, MFA, Identity and User Management |
@@ -150,7 +160,7 @@ Minha formação complementar inclui conteúdos de **AWS, Linux, Terraform, Fort
 
 | Área | Prática |
 |---|---|
-| **Security Monitoring** | Monitoramento utilizando Wazuh |
+| **Cybersecurity** | Monitoramento e análise de eventos utilizando Wazuh |
 | **Endpoint Logging** | Coleta e análise de eventos com Sysmon |
 | **Log Analysis** | Análise de eventos utilizando Hayabusa |
 | **Network Traffic Analysis** | Análise de tráfego de rede com Wireshark |
@@ -250,13 +260,17 @@ O projeto realiza medições relacionadas a:
 
 Ambiente de estudo utilizado para práticas de **Segurança da Informação, Redes de Computadores e Sistemas Operacionais**.
 
-#### Security Monitoring
+#### Cybersecurity
 
-`Wazuh` `Sysmon` `Hayabusa` `Zabbix`
+`Wazuh` `Firewall`
+
+#### Monitoring
+
+`Sysmon` `Hayabusa` `Zabbix`
 
 #### Network Analysis & Networking
 
-`Wireshark` `TCP/IP` `DNS` `VLAN` `NAT` `DHCP` `VPN` `Firewall`
+`Wireshark` `TCP/IP` `DNS` `VLAN` `NAT` `DHCP` `VPN`
 
 #### Infrastructure
 
@@ -433,16 +447,26 @@ My additional training includes **AWS, Linux, Terraform, Fortinet, Cisco and Mic
 
 ## Technical Stack
 
-### Cybersecurity & Monitoring
+### Cybersecurity
 
 <p>
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge" alt="Wazuh">
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet">
+</p>
+
+`Information Security` `Wazuh` `Incident Triage` `Firewall` `IAM` `MFA`
+
+---
+
+### Monitoring
+
+<p>
   <img src="https://img.shields.io/badge/Sysmon-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Sysmon">
   <img src="https://img.shields.io/badge/Hayabusa-Log%20Analysis-333333?style=for-the-badge" alt="Hayabusa">
   <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix">
 </p>
 
-`Information Security` `Security Monitoring` `Log Analysis` `Incident Triage` `Firewall` `IAM` `MFA`
+`Security Monitoring` `Log Analysis` `Sysmon` `Hayabusa` `Zabbix`
 
 ---
 
@@ -496,8 +520,8 @@ My additional training includes **AWS, Linux, Terraform, Fortinet, Cisco and Mic
 
 | Area | Technologies and knowledge |
 |---|---|
-| **Cybersecurity** | Information Security, security monitoring, initial log analysis, incident triage |
-| **Security Monitoring** | Wazuh, Sysmon, Hayabusa, Zabbix |
+| **Cybersecurity** | Wazuh, Information Security, incident triage, firewall, IAM, MFA |
+| **Monitoring** | Sysmon, Hayabusa, Zabbix, security monitoring, initial log analysis |
 | **Computer Networks** | Wireshark, TCP/IP, DNS, VPN, VLAN, NAT, DHCP, IP addressing |
 | **Network Infrastructure** | MikroTik, pfSense, routers, switches, structured cabling |
 | **Identity & Access** | Active Directory, IAM, MFA, Identity and User Management |
@@ -512,7 +536,7 @@ My additional training includes **AWS, Linux, Terraform, Fortinet, Cisco and Mic
 
 | Area | Practice |
 |---|---|
-| **Security Monitoring** | Monitoring using Wazuh |
+| **Cybersecurity** | Monitoring and event analysis using Wazuh |
 | **Endpoint Logging** | Event collection and analysis using Sysmon |
 | **Log Analysis** | Event analysis using Hayabusa |
 | **Network Traffic Analysis** | Network traffic analysis using Wireshark |
@@ -612,13 +636,17 @@ The project evaluates:
 
 Study environment used for practical work involving **Information Security, Computer Networks and Operating Systems**.
 
-#### Security Monitoring
+#### Cybersecurity
 
-`Wazuh` `Sysmon` `Hayabusa` `Zabbix`
+`Wazuh` `Firewall`
+
+#### Monitoring
+
+`Sysmon` `Hayabusa` `Zabbix`
 
 #### Network Analysis & Networking
 
-`Wireshark` `TCP/IP` `DNS` `VLAN` `NAT` `DHCP` `VPN` `Firewall`
+`Wireshark` `TCP/IP` `DNS` `VLAN` `NAT` `DHCP` `VPN`
 
 #### Infrastructure
 
