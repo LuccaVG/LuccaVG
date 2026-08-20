@@ -6,7 +6,7 @@ Técnico em **Desenvolvimento de Sistemas** e **Redes de Computadores**, atualme
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccavg/)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/LuccaVG)
-[![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-555555?style=for-the-badge&logo=readthedocs&logoColor=white)](LUCCA%20VIEIRA%20GENTILEZZA.pdf)
+[![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-555555?style=for-the-badge&logo=readthedocs&logoColor=white)](curriculo_lucca_github.pdf)
 
 ## Sobre mim
 
@@ -62,7 +62,7 @@ Technician in **Systems Development** and **Computer Networks**, currently pursu
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccavg/)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/LuccaVG)
-[![Resume](https://img.shields.io/badge/Resume-555555?style=for-the-badge&logo=readthedocs&logoColor=white)](LUCCA%20VIEIRA%20GENTILEZZA.pdf)
+[![Resume](https://img.shields.io/badge/Resume-555555?style=for-the-badge&logo=readthedocs&logoColor=white)](curriculo_lucca_github.pdf)
 
 ## About me
 
