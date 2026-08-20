@@ -44,6 +44,8 @@ Atuei profissionalmente com monitoramento de infraestrutura e serviços utilizan
 
 Em laboratórios de Segurança da Informação e Redes, trabalho com **Wazuh, Sysmon, Hayabusa, Wireshark, pfSense e MikroTik**, além de ambientes com **Windows, Windows Server, Debian e Kali Linux**.
 
+Possuo conhecimento em soluções da **Fortinet**, incluindo **FortiGate, FortiSOC, FortiSIEM, FortiSwitch e FortiOS**.
+
 Minha formação complementar inclui conteúdos de **AWS, Linux, Terraform, Fortinet, Cisco e Microsoft Azure**.
 
 ---
@@ -78,10 +80,23 @@ Minha formação complementar inclui conteúdos de **AWS, Linux, Terraform, Fort
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge" alt="Wazuh">
   <img src="https://img.shields.io/badge/Sysmon-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Sysmon">
   <img src="https://img.shields.io/badge/Hayabusa-Log%20Analysis-333333?style=for-the-badge" alt="Hayabusa">
-  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet">
 </p>
 
 `Segurança da Informação` `Wazuh` `Sysmon` `Hayabusa` `Monitoramento de Logs` `Análise de Logs` `Triagem de Incidentes` `Firewall` `IAM` `MFA`
+
+---
+
+### Soluções Fortinet
+
+<p>
+  <img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiGate">
+  <img src="https://img.shields.io/badge/FortiSOC-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiSOC">
+  <img src="https://img.shields.io/badge/FortiSIEM-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiSIEM">
+  <img src="https://img.shields.io/badge/FortiSwitch-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiSwitch">
+  <img src="https://img.shields.io/badge/FortiOS-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiOS">
+</p>
+
+`FortiGate` `FortiSOC` `FortiSIEM` `FortiSwitch` `FortiOS`
 
 ---
 
@@ -148,6 +163,7 @@ Minha formação complementar inclui conteúdos de **AWS, Linux, Terraform, Fort
 | Área | Tecnologias e conhecimentos |
 |---|---|
 | **Segurança Cibernética** | Wazuh, Sysmon, Hayabusa, Segurança da Informação, monitoramento e análise de logs, triagem de incidentes, firewall, IAM, MFA |
+| **Soluções Fortinet** | FortiGate, FortiSOC, FortiSIEM, FortiSwitch, FortiOS |
 | **Monitoramento de Rede & Infraestrutura** | Zabbix, Prometheus, ntopng, monitoramento de rede e infraestrutura |
 | **Redes de Computadores** | Wireshark, TCP/IP, DNS, VPN, VLAN, NAT, DHCP, endereçamento IP |
 | **Infraestrutura de Rede** | MikroTik, pfSense, roteadores, switches, cabeamento estruturado |
@@ -221,44 +237,6 @@ vulnerability_report.md
 
 ---
 
-### PQC-overhead on MQTT/TLS
-
-[![Repository](https://img.shields.io/badge/GitHub-PQC--MQTT--Benchmark-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuccaVG/pqc-mqtt-benchmark)
-
-Projeto de benchmark voltado à análise de desempenho de **MQTT sobre TLS** e ao overhead associado a algoritmos de **criptografia pós-quântica**.
-
-#### Tecnologias e conceitos
-
-`MQTT` `TLS` `ML-KEM` `ML-DSA` `liboqs` `Docker Compose` `QEMU` `ARM64` `Linux`
-
-```text
-AMD64 Host
-    |
-    v
-QEMU / binfmt
-    |
-    v
-linux/arm64
-    |
-    v
-MQTT + TLS
-    |
-    v
-PQC Benchmarks
-```
-
-O projeto realiza medições relacionadas a:
-
-- Latência de conexão MQTT sobre TLS.
-- Latência de publicação.
-- Operações com ML-KEM.
-- Operações com ML-DSA.
-- Overhead criptográfico.
-
-[Ver projeto](https://github.com/LuccaVG/pqc-mqtt-benchmark)
-
----
-
 ### Laboratório de Segurança e Redes
 
 Ambiente de estudo utilizado para práticas de **Segurança da Informação, Redes de Computadores e Sistemas Operacionais**.
@@ -266,6 +244,10 @@ Ambiente de estudo utilizado para práticas de **Segurança da Informação, Red
 #### Cybersecurity
 
 `Wazuh` `Sysmon` `Hayabusa` `Firewall`
+
+#### Soluções Fortinet
+
+`FortiGate` `FortiSOC` `FortiSIEM` `FortiSwitch` `FortiOS`
 
 #### Monitoramento de Rede & Infraestrutura
 
@@ -422,6 +404,8 @@ My professional experience includes infrastructure and service monitoring using 
 
 In Cybersecurity and Networking labs, I work with **Wazuh, Sysmon, Hayabusa, Wireshark, pfSense and MikroTik**, as well as **Windows, Windows Server, Debian and Kali Linux** environments.
 
+I have knowledge of **Fortinet solutions**, including **FortiGate, FortiSOC, FortiSIEM, FortiSwitch and FortiOS**.
+
 My additional training includes **AWS, Linux, Terraform, Fortinet, Cisco and Microsoft Azure**.
 
 ---
@@ -456,10 +440,23 @@ My additional training includes **AWS, Linux, Terraform, Fortinet, Cisco and Mic
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge" alt="Wazuh">
   <img src="https://img.shields.io/badge/Sysmon-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Sysmon">
   <img src="https://img.shields.io/badge/Hayabusa-Log%20Analysis-333333?style=for-the-badge" alt="Hayabusa">
-  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet">
 </p>
 
 `Information Security` `Wazuh` `Sysmon` `Hayabusa` `Log Monitoring` `Log Analysis` `Incident Triage` `Firewall` `IAM` `MFA`
+
+---
+
+### Fortinet Solutions
+
+<p>
+  <img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiGate">
+  <img src="https://img.shields.io/badge/FortiSOC-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiSOC">
+  <img src="https://img.shields.io/badge/FortiSIEM-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiSIEM">
+  <img src="https://img.shields.io/badge/FortiSwitch-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiSwitch">
+  <img src="https://img.shields.io/badge/FortiOS-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiOS">
+</p>
+
+`FortiGate` `FortiSOC` `FortiSIEM` `FortiSwitch` `FortiOS`
 
 ---
 
@@ -526,6 +523,7 @@ My additional training includes **AWS, Linux, Terraform, Fortinet, Cisco and Mic
 | Area | Technologies and knowledge |
 |---|---|
 | **Cybersecurity** | Wazuh, Sysmon, Hayabusa, Information Security, log monitoring and analysis, incident triage, firewall, IAM, MFA |
+| **Fortinet Solutions** | FortiGate, FortiSOC, FortiSIEM, FortiSwitch, FortiOS |
 | **Network & Infrastructure Monitoring** | Zabbix, Prometheus, ntopng, network and infrastructure monitoring |
 | **Computer Networks** | Wireshark, TCP/IP, DNS, VPN, VLAN, NAT, DHCP, IP addressing |
 | **Network Infrastructure** | MikroTik, pfSense, routers, switches, structured cabling |
@@ -599,44 +597,6 @@ vulnerability_report.md
 
 ---
 
-### PQC-overhead on MQTT/TLS
-
-[![Repository](https://img.shields.io/badge/GitHub-PQC--MQTT--Benchmark-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuccaVG/pqc-mqtt-benchmark)
-
-Benchmark project focused on evaluating **MQTT over TLS** performance and overhead associated with **post-quantum cryptography** algorithms.
-
-#### Technologies and concepts
-
-`MQTT` `TLS` `ML-KEM` `ML-DSA` `liboqs` `Docker Compose` `QEMU` `ARM64` `Linux`
-
-```text
-AMD64 Host
-    |
-    v
-QEMU / binfmt
-    |
-    v
-linux/arm64
-    |
-    v
-MQTT + TLS
-    |
-    v
-PQC Benchmarks
-```
-
-The project evaluates:
-
-- MQTT over TLS connection latency.
-- Publish latency.
-- ML-KEM operations.
-- ML-DSA operations.
-- Cryptographic overhead.
-
-[View project](https://github.com/LuccaVG/pqc-mqtt-benchmark)
-
----
-
 ### Security & Networking Lab
 
 Study environment used for practical work involving **Information Security, Computer Networks and Operating Systems**.
@@ -644,6 +604,10 @@ Study environment used for practical work involving **Information Security, Comp
 #### Cybersecurity
 
 `Wazuh` `Sysmon` `Hayabusa` `Firewall`
+
+#### Fortinet Solutions
+
+`FortiGate` `FortiSOC` `FortiSIEM` `FortiSwitch` `FortiOS`
 
 #### Network & Infrastructure Monitoring
 
