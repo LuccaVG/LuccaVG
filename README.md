@@ -41,7 +41,7 @@ Minha formação combina **Segurança Cibernética, Redes de Computadores, Infra
 
 Atuei profissionalmente com monitoramento de infraestrutura e serviços utilizando **Zabbix e Tiflux**, atendimento a usuários e clientes, diagnóstico e resolução de chamados, suporte a redes e conectividade, configuração de softwares, roteadores, switches, cabeamento estruturado, telefonia IP, **PBX Issabel e VoIP**.
 
-Em laboratórios de Segurança da Informação e Redes, trabalho com **Wazuh, Sysmon, Hayabusa, Wireshark, pfSense e MikroTik**, além de ambientes com **Windows, Windows Server, Debian e Kali Linux**.
+Em laboratórios de Segurança da Informação e Redes, trabalho com **Wazuh, Sysmon, Hayabusa, naabu, httpx, nuclei, Wireshark, pfSense e MikroTik**, além de ambientes com **Windows, Windows Server, Debian, Ubuntu, RHEL, Kali Linux, Parrot OS, FreeBSD e OpenBSD**.
 
 Possuo conhecimento em soluções da **Fortinet**, incluindo **FortiGate, FortiSOC, FortiSIEM, FortiSwitch e FortiOS**.
 
@@ -79,9 +79,12 @@ Minha formação complementar inclui conteúdos de **AWS, Linux, Terraform, Fort
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge" alt="Wazuh">
   <img src="https://img.shields.io/badge/Sysmon-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Sysmon">
   <img src="https://img.shields.io/badge/Hayabusa-Log%20Analysis-333333?style=for-the-badge" alt="Hayabusa">
+  <img src="https://img.shields.io/badge/naabu-ProjectDiscovery-5B5BFF?style=for-the-badge" alt="naabu">
+  <img src="https://img.shields.io/badge/httpx-ProjectDiscovery-5B5BFF?style=for-the-badge" alt="httpx">
+  <img src="https://img.shields.io/badge/nuclei-ProjectDiscovery-5B5BFF?style=for-the-badge" alt="nuclei">
 </p>
 
-`Segurança da Informação` `Wazuh` `Sysmon` `Hayabusa` `Monitoramento de Logs` `Análise de Logs` `Triagem de Incidentes` `Firewall` `IAM` `MFA`
+`Segurança da Informação` `Wazuh` `Sysmon` `Hayabusa` `naabu` `httpx` `nuclei` `Monitoramento de Logs` `Análise de Logs` `Triagem de Incidentes` `Firewall` `IAM` `MFA`
 
 ---
 
@@ -127,13 +130,19 @@ Minha formação complementar inclui conteúdos de **AWS, Linux, Terraform, Fort
 ### Sistemas Operacionais
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="RHEL">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Parrot%20OS-15E0ED?style=for-the-badge&logo=linux&logoColor=black" alt="Parrot OS">
+  <img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" alt="FreeBSD">
+  <img src="https://img.shields.io/badge/OpenBSD-F2CA30?style=for-the-badge&logo=openbsd&logoColor=black" alt="OpenBSD">
 </p>
 
-`Windows 10/11` `Windows Server` `Debian` `Kali Linux`
+**Windows:** `Windows 10/11` `Windows Server`  
+**Linux:** `Debian` `Ubuntu` `RHEL` `Kali Linux` `Parrot OS`  
+**Unix / BSD:** `FreeBSD` `OpenBSD`
 
 ---
 
@@ -161,13 +170,13 @@ Minha formação complementar inclui conteúdos de **AWS, Linux, Terraform, Fort
 
 | Área | Tecnologias e conhecimentos |
 |---|---|
-| **Segurança Cibernética** | Wazuh, Sysmon, Hayabusa, Segurança da Informação, monitoramento e análise de logs, triagem de incidentes, firewall, IAM, MFA |
+| **Segurança Cibernética** | Wazuh, Sysmon, Hayabusa, naabu, httpx, nuclei, Segurança da Informação, monitoramento e análise de logs, triagem de incidentes, firewall, IAM, MFA |
 | **Soluções Fortinet** | FortiGate, FortiSOC, FortiSIEM, FortiSwitch, FortiOS |
 | **Monitoramento de Rede & Infraestrutura** | Zabbix, Prometheus, ntopng, monitoramento de rede e infraestrutura |
 | **Redes de Computadores** | Wireshark, TCP/IP, DNS, VPN, VLAN, NAT, DHCP, endereçamento IP |
 | **Infraestrutura de Rede** | MikroTik, pfSense, roteadores, switches, cabeamento estruturado |
 | **Identidade e Acesso** | Active Directory, IAM, MFA, Identity and User Management |
-| **Sistemas Operacionais** | Windows 10/11, Windows Server, Debian, Kali Linux |
+| **Sistemas Operacionais** | Windows 10/11, Windows Server, Debian, Ubuntu, RHEL, Kali Linux, Parrot OS, FreeBSD, OpenBSD |
 | **Cloud e IaC** | AWS, Microsoft Azure, Terraform |
 | **Versionamento** | Git, GitHub, GitLab |
 | **Comunicações** | VoIP, telefonia IP, PBX Issabel |
@@ -178,7 +187,7 @@ Minha formação complementar inclui conteúdos de **AWS, Linux, Terraform, Fort
 
 | Área | Prática |
 |---|---|
-| **Cybersecurity** | Monitoramento e análise de eventos utilizando Wazuh |
+| **Cybersecurity** | Monitoramento e análise de eventos utilizando Wazuh; descoberta e análise com naabu, httpx e nuclei |
 | **Endpoint Logging** | Coleta e análise de eventos com Sysmon |
 | **Log Analysis** | Análise de eventos utilizando Hayabusa |
 | **Network Traffic Analysis** | Análise de tráfego de rede com Wireshark |
@@ -187,7 +196,7 @@ Minha formação complementar inclui conteúdos de **AWS, Linux, Terraform, Fort
 | **Segmentation** | Configuração de VLANs |
 | **Networking** | Configuração de NAT e DHCP |
 | **Infrastructure** | Laboratórios com pfSense e MikroTik |
-| **Systems** | Windows, Windows Server, Debian e Kali Linux |
+| **Systems** | Windows, Windows Server, Debian, Ubuntu, RHEL, Kali Linux, Parrot OS, FreeBSD e OpenBSD |
 
 ---
 
@@ -242,7 +251,7 @@ Ambiente de estudo utilizado para práticas de **Segurança da Informação, Red
 
 #### Cybersecurity
 
-`Wazuh` `Sysmon` `Hayabusa` `Firewall`
+`Wazuh` `Sysmon` `Hayabusa` `naabu` `httpx` `nuclei` `Firewall`
 
 #### Soluções Fortinet
 
@@ -262,7 +271,7 @@ Ambiente de estudo utilizado para práticas de **Segurança da Informação, Red
 
 #### Operating Systems
 
-`Windows 10/11` `Windows Server` `Debian` `Kali Linux`
+`Windows 10/11` `Windows Server` `Debian` `Ubuntu` `RHEL` `Kali Linux` `Parrot OS` `FreeBSD` `OpenBSD`
 
 ---
 
@@ -401,7 +410,7 @@ My background combines **Cybersecurity, Computer Networks, IT Infrastructure and
 
 My professional experience includes infrastructure and service monitoring using **Zabbix and Tiflux**, user and customer support, troubleshooting and ticket resolution, network and connectivity support, software configuration, routers, switches, structured cabling, IP telephony, **Issabel PBX and VoIP**.
 
-In Cybersecurity and Networking labs, I work with **Wazuh, Sysmon, Hayabusa, Wireshark, pfSense and MikroTik**, as well as **Windows, Windows Server, Debian and Kali Linux** environments.
+In Cybersecurity and Networking labs, I work with **Wazuh, Sysmon, Hayabusa, naabu, httpx, nuclei, Wireshark, pfSense and MikroTik**, as well as **Windows, Windows Server, Debian, Ubuntu, RHEL, Kali Linux, Parrot OS, FreeBSD and OpenBSD** environments.
 
 I have knowledge of **Fortinet solutions**, including **FortiGate, FortiSOC, FortiSIEM, FortiSwitch and FortiOS**.
 
@@ -439,9 +448,12 @@ My additional training includes **AWS, Linux, Terraform, Fortinet, Cisco and Mic
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge" alt="Wazuh">
   <img src="https://img.shields.io/badge/Sysmon-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Sysmon">
   <img src="https://img.shields.io/badge/Hayabusa-Log%20Analysis-333333?style=for-the-badge" alt="Hayabusa">
+  <img src="https://img.shields.io/badge/naabu-ProjectDiscovery-5B5BFF?style=for-the-badge" alt="naabu">
+  <img src="https://img.shields.io/badge/httpx-ProjectDiscovery-5B5BFF?style=for-the-badge" alt="httpx">
+  <img src="https://img.shields.io/badge/nuclei-ProjectDiscovery-5B5BFF?style=for-the-badge" alt="nuclei">
 </p>
 
-`Information Security` `Wazuh` `Sysmon` `Hayabusa` `Log Monitoring` `Log Analysis` `Incident Triage` `Firewall` `IAM` `MFA`
+`Information Security` `Wazuh` `Sysmon` `Hayabusa` `naabu` `httpx` `nuclei` `Log Monitoring` `Log Analysis` `Incident Triage` `Firewall` `IAM` `MFA`
 
 ---
 
@@ -487,13 +499,19 @@ My additional training includes **AWS, Linux, Terraform, Fortinet, Cisco and Mic
 ### Operating Systems
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="RHEL">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Parrot%20OS-15E0ED?style=for-the-badge&logo=linux&logoColor=black" alt="Parrot OS">
+  <img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" alt="FreeBSD">
+  <img src="https://img.shields.io/badge/OpenBSD-F2CA30?style=for-the-badge&logo=openbsd&logoColor=black" alt="OpenBSD">
 </p>
 
-`Windows 10/11` `Windows Server` `Debian` `Kali Linux`
+**Windows:** `Windows 10/11` `Windows Server`  
+**Linux:** `Debian` `Ubuntu` `RHEL` `Kali Linux` `Parrot OS`  
+**Unix / BSD:** `FreeBSD` `OpenBSD`
 
 ---
 
@@ -521,13 +539,13 @@ My additional training includes **AWS, Linux, Terraform, Fortinet, Cisco and Mic
 
 | Area | Technologies and knowledge |
 |---|---|
-| **Cybersecurity** | Wazuh, Sysmon, Hayabusa, Information Security, log monitoring and analysis, incident triage, firewall, IAM, MFA |
+| **Cybersecurity** | Wazuh, Sysmon, Hayabusa, naabu, httpx, nuclei, Information Security, log monitoring and analysis, incident triage, firewall, IAM, MFA |
 | **Fortinet Solutions** | FortiGate, FortiSOC, FortiSIEM, FortiSwitch, FortiOS |
 | **Network & Infrastructure Monitoring** | Zabbix, Prometheus, ntopng, network and infrastructure monitoring |
 | **Computer Networks** | Wireshark, TCP/IP, DNS, VPN, VLAN, NAT, DHCP, IP addressing |
 | **Network Infrastructure** | MikroTik, pfSense, routers, switches, structured cabling |
 | **Identity & Access** | Active Directory, IAM, MFA, Identity and User Management |
-| **Operating Systems** | Windows 10/11, Windows Server, Debian, Kali Linux |
+| **Operating Systems** | Windows 10/11, Windows Server, Debian, Ubuntu, RHEL, Kali Linux, Parrot OS, FreeBSD, OpenBSD |
 | **Cloud & IaC** | AWS, Microsoft Azure, Terraform |
 | **Version Control** | Git, GitHub, GitLab |
 | **Communications** | VoIP, IP telephony, Issabel PBX |
@@ -538,7 +556,7 @@ My additional training includes **AWS, Linux, Terraform, Fortinet, Cisco and Mic
 
 | Area | Practice |
 |---|---|
-| **Cybersecurity** | Monitoring and event analysis using Wazuh |
+| **Cybersecurity** | Monitoring and event analysis using Wazuh; discovery and analysis using naabu, httpx and nuclei |
 | **Endpoint Logging** | Event collection and analysis using Sysmon |
 | **Log Analysis** | Event analysis using Hayabusa |
 | **Network Traffic Analysis** | Network traffic analysis using Wireshark |
@@ -547,7 +565,7 @@ My additional training includes **AWS, Linux, Terraform, Fortinet, Cisco and Mic
 | **Segmentation** | VLAN configuration |
 | **Networking** | NAT and DHCP configuration |
 | **Infrastructure** | Labs using pfSense and MikroTik |
-| **Systems** | Windows, Windows Server, Debian and Kali Linux |
+| **Systems** | Windows, Windows Server, Debian, Ubuntu, RHEL, Kali Linux, Parrot OS, FreeBSD and OpenBSD |
 
 ---
 
@@ -602,7 +620,7 @@ Study environment used for practical work involving **Information Security, Comp
 
 #### Cybersecurity
 
-`Wazuh` `Sysmon` `Hayabusa` `Firewall`
+`Wazuh` `Sysmon` `Hayabusa` `naabu` `httpx` `nuclei` `Firewall`
 
 #### Fortinet Solutions
 
@@ -622,7 +640,7 @@ Study environment used for practical work involving **Information Security, Comp
 
 #### Operating Systems
 
-`Windows 10/11` `Windows Server` `Debian` `Kali Linux`
+`Windows 10/11` `Windows Server` `Debian` `Ubuntu` `RHEL` `Kali Linux` `Parrot OS` `FreeBSD` `OpenBSD`
 
 ---
 
