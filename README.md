@@ -20,7 +20,7 @@ Técnico em Desenvolvimento de Sistemas, Técnico em Redes de Computadores, Tecn
 - Computação em Nuvem (AWS, Azure)
 - Práticas e Ferramentas DevOps
 
-## Metas para 2026
+## Metas para 2027
 - Concluir meu curso em Segurança Cibernética
 - Contribuir para projetos de código aberto
 - Obter certificações em Cibersegurança
@@ -58,7 +58,7 @@ Technician in System Development, Technician in Computer Networks, Technologist 
 - Cloud Computing (AWS, Azure)
 - DevOps Practices and Tools
 
-## Goals for 2026
+## Goals for 2027
 - Complete my degree in Cybersecurity
 - Contribute to open-source projects
 - Obtain certifications in Cybersecurity
