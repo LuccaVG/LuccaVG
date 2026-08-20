@@ -2,27 +2,27 @@
 
 # Lucca Vieira Gentilezza
 
-### Cybersecurity | Computer Networks | Infrastructure | Cloud
+### Segurança Cibernética | Redes de Computadores | Infraestrutura | Computação em Nuvem
 
-**Cybersecurity Technology Student at SENAI-SP**  
-**Computer Networks Technician | Systems Development Technician**
+**Estudante de Tecnologia em Segurança Cibernética no SENAI-SP**  
+**Técnico em Redes de Computadores | Técnico em Desenvolvimento de Sistemas**
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucca%20Gentilezza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccavg/)
 [![GitLab](https://img.shields.io/badge/GitLab-LuccaVG-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/LuccaVG)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccavgentilezza@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccavgentilezza@gmail.com)
 
 <br>
 
-![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-111111?style=flat-square&logo=hackthebox&logoColor=white)
-![Networks](https://img.shields.io/badge/Focus-Computer%20Networks-111111?style=flat-square&logo=cisco&logoColor=white)
-![Infrastructure](https://img.shields.io/badge/Focus-Infrastructure-111111?style=flat-square&logo=linux&logoColor=white)
-![Cloud](https://img.shields.io/badge/Focus-Cloud-111111?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Foco-Segurança%20Cibernética-111111?style=flat-square&logo=hackthebox&logoColor=white)
+![Networks](https://img.shields.io/badge/Foco-Redes%20de%20Computadores-111111?style=flat-square&logo=cisco&logoColor=white)
+![Infrastructure](https://img.shields.io/badge/Foco-Infraestrutura-111111?style=flat-square&logo=linux&logoColor=white)
+![Cloud](https://img.shields.io/badge/Foco-Computação%20em%20Nuvem-111111?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 <br>
 
-### Language / Idioma
+### Idioma / Language
 
 [![Português](https://img.shields.io/badge/Idioma-Português-009C3B?style=for-the-badge)](#português)
 [![English](https://img.shields.io/badge/Language-English-012169?style=for-the-badge)](#english)
