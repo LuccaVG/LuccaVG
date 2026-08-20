@@ -4,8 +4,9 @@
 
 ### Segurança Cibernética | Redes de Computadores | Infraestrutura | Computação em Nuvem
 
-**Tecnólogo em Segurança Cibernética pelo SENAI-SP (cursando)**  
+**Tecnólogo em Segurança Cibernética pelo SENAI-SP (cursando)** 
 **Técnico em Redes de Computadores | Técnico em Desenvolvimento de Sistemas**
+
 
 <br>
 
