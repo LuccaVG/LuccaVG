@@ -4,8 +4,9 @@
 
 ### Segurança Cibernética | Redes de Computadores | Infraestrutura | Computação em Nuvem
 
-**Cursando Tecnólogo em Segurança Cibernética no SENAI-SP**  
+**Tecnólogo em Segurança Cibernética pelo SENAI-SP (cursando)** 
 **Técnico em Redes de Computadores | Técnico em Desenvolvimento de Sistemas**
+
 
 <br>
 
@@ -35,7 +36,7 @@
 
 ## Sobre mim
 
-Sou estudante de **Tecnologia em Segurança Cibernética pelo SENAI-SP**, com formação técnica em **Redes de Computadores** e **Desenvolvimento de Sistemas**.
+Cursando **Tecnólogo em Segurança Cibernética pelo SENAI-SP**, com formação técnica em **Redes de Computadores** e **Desenvolvimento de Sistemas**.
 
 Minha formação combina **Segurança Cibernética, Redes de Computadores, Infraestrutura e Cloud Computing**, com experiência profissional em **infraestrutura de TI, suporte técnico, redes e monitoramento**.
 
@@ -413,7 +414,7 @@ São Bernardo do Campo, São Paulo - Brasil
 
 ## About me
 
-I am currently pursuing a **Technology Degree in Cybersecurity at SENAI-SP**, with technical degrees in **Computer Networks** and **Systems Development**.
+I am currently pursuing a **Technologist Degree in Cybersecurity at SENAI-SP**, with technical degrees in **Computer Networks** and **Systems Development**.
 
 My background combines **Cybersecurity, Computer Networks, IT Infrastructure and Cloud Computing**, supported by professional experience in **IT infrastructure, technical support, networking and monitoring**.
 
@@ -669,7 +670,7 @@ Study environment used for practical work involving **Information Security, Comp
 <td width="22%"><strong>2025 - 2027</strong></td>
 <td>
 <strong>SENAI São Paulo</strong><br>
-Technology Degree in Cybersecurity
+Technologist Degree in Cybersecurity
 </td>
 </tr>
 
