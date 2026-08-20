@@ -75,22 +75,24 @@ Minha formação complementar inclui conteúdos de **AWS, Linux, Terraform, Fort
 
 <p>
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge" alt="Wazuh">
+  <img src="https://img.shields.io/badge/Sysmon-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Sysmon">
+  <img src="https://img.shields.io/badge/Hayabusa-Log%20Analysis-333333?style=for-the-badge" alt="Hayabusa">
   <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet">
 </p>
 
-`Segurança da Informação` `Wazuh` `Triagem de Incidentes` `Firewall` `IAM` `MFA`
+`Segurança da Informação` `Wazuh` `Sysmon` `Hayabusa` `Monitoramento de Logs` `Análise de Logs` `Triagem de Incidentes` `Firewall` `IAM` `MFA`
 
 ---
 
-### Monitoring
+### Monitoramento de Rede & Infraestrutura
 
 <p>
-  <img src="https://img.shields.io/badge/Sysmon-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Sysmon">
-  <img src="https://img.shields.io/badge/Hayabusa-Log%20Analysis-333333?style=for-the-badge" alt="Hayabusa">
   <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
+  <img src="https://img.shields.io/badge/ntopng-19557F?style=for-the-badge" alt="ntopng">
 </p>
 
-`Monitoramento de Alertas` `Análise de Logs` `Sysmon` `Hayabusa` `Zabbix`
+`Zabbix` `Prometheus` `ntopng` `Monitoramento de Rede` `Monitoramento de Infraestrutura`
 
 ---
 
@@ -144,8 +146,8 @@ Minha formação complementar inclui conteúdos de **AWS, Linux, Terraform, Fort
 
 | Área | Tecnologias e conhecimentos |
 |---|---|
-| **Segurança Cibernética** | Wazuh, Segurança da Informação, triagem de incidentes, firewall, IAM, MFA |
-| **Monitoring** | Sysmon, Hayabusa, Zabbix, monitoramento de alertas, análise inicial de logs |
+| **Segurança Cibernética** | Wazuh, Sysmon, Hayabusa, Segurança da Informação, monitoramento e análise de logs, triagem de incidentes, firewall, IAM, MFA |
+| **Monitoramento de Rede & Infraestrutura** | Zabbix, Prometheus, ntopng, monitoramento de rede e infraestrutura |
 | **Redes de Computadores** | Wireshark, TCP/IP, DNS, VPN, VLAN, NAT, DHCP, endereçamento IP |
 | **Infraestrutura de Rede** | MikroTik, pfSense, roteadores, switches, cabeamento estruturado |
 | **Identidade e Acesso** | Active Directory, IAM, MFA, Identity and User Management |
@@ -262,11 +264,11 @@ Ambiente de estudo utilizado para práticas de **Segurança da Informação, Red
 
 #### Cybersecurity
 
-`Wazuh` `Firewall`
+`Wazuh` `Sysmon` `Hayabusa` `Firewall`
 
-#### Monitoring
+#### Monitoramento de Rede & Infraestrutura
 
-`Sysmon` `Hayabusa` `Zabbix`
+`Zabbix` `Prometheus` `ntopng`
 
 #### Network Analysis & Networking
 
@@ -451,22 +453,24 @@ My additional training includes **AWS, Linux, Terraform, Fortinet, Cisco and Mic
 
 <p>
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge" alt="Wazuh">
+  <img src="https://img.shields.io/badge/Sysmon-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Sysmon">
+  <img src="https://img.shields.io/badge/Hayabusa-Log%20Analysis-333333?style=for-the-badge" alt="Hayabusa">
   <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet">
 </p>
 
-`Information Security` `Wazuh` `Incident Triage` `Firewall` `IAM` `MFA`
+`Information Security` `Wazuh` `Sysmon` `Hayabusa` `Log Monitoring` `Log Analysis` `Incident Triage` `Firewall` `IAM` `MFA`
 
 ---
 
-### Monitoring
+### Network & Infrastructure Monitoring
 
 <p>
-  <img src="https://img.shields.io/badge/Sysmon-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Sysmon">
-  <img src="https://img.shields.io/badge/Hayabusa-Log%20Analysis-333333?style=for-the-badge" alt="Hayabusa">
   <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
+  <img src="https://img.shields.io/badge/ntopng-19557F?style=for-the-badge" alt="ntopng">
 </p>
 
-`Security Monitoring` `Log Analysis` `Sysmon` `Hayabusa` `Zabbix`
+`Zabbix` `Prometheus` `ntopng` `Network Monitoring` `Infrastructure Monitoring`
 
 ---
 
@@ -520,8 +524,8 @@ My additional training includes **AWS, Linux, Terraform, Fortinet, Cisco and Mic
 
 | Area | Technologies and knowledge |
 |---|---|
-| **Cybersecurity** | Wazuh, Information Security, incident triage, firewall, IAM, MFA |
-| **Monitoring** | Sysmon, Hayabusa, Zabbix, security monitoring, initial log analysis |
+| **Cybersecurity** | Wazuh, Sysmon, Hayabusa, Information Security, log monitoring and analysis, incident triage, firewall, IAM, MFA |
+| **Network & Infrastructure Monitoring** | Zabbix, Prometheus, ntopng, network and infrastructure monitoring |
 | **Computer Networks** | Wireshark, TCP/IP, DNS, VPN, VLAN, NAT, DHCP, IP addressing |
 | **Network Infrastructure** | MikroTik, pfSense, routers, switches, structured cabling |
 | **Identity & Access** | Active Directory, IAM, MFA, Identity and User Management |
@@ -638,11 +642,11 @@ Study environment used for practical work involving **Information Security, Comp
 
 #### Cybersecurity
 
-`Wazuh` `Firewall`
+`Wazuh` `Sysmon` `Hayabusa` `Firewall`
 
-#### Monitoring
+#### Network & Infrastructure Monitoring
 
-`Sysmon` `Hayabusa` `Zabbix`
+`Zabbix` `Prometheus` `ntopng`
 
 #### Network Analysis & Networking
 
