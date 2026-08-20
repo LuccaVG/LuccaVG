@@ -43,7 +43,7 @@ Atuei profissionalmente com monitoramento de infraestrutura e serviços utilizan
 
 Em laboratórios de Segurança da Informação e Redes, trabalho com **Wazuh, Sysmon, Hayabusa, naabu, httpx, nuclei, Wireshark, pfSense e MikroTik**, além de ambientes com **Windows, Windows Server, Debian, Ubuntu, RHEL, Kali Linux, Parrot OS, FreeBSD e OpenBSD**.
 
-Possuo conhecimento em soluções da **Fortinet**, incluindo **FortiGate, FortiSOC, FortiSIEM, FortiSwitch e FortiOS**.
+Possuo conhecimento em soluções da **Fortinet**, incluindo **FortiGate, FortiSwitch, FortiSOC e FortiSIEM**.
 
 Minha formação complementar inclui conteúdos de **AWS, Linux, Terraform, Fortinet, Cisco e Microsoft Azure**.
 
@@ -82,23 +82,11 @@ Minha formação complementar inclui conteúdos de **AWS, Linux, Terraform, Fort
   <img src="https://img.shields.io/badge/naabu-ProjectDiscovery-5B5BFF?style=for-the-badge" alt="naabu">
   <img src="https://img.shields.io/badge/httpx-ProjectDiscovery-5B5BFF?style=for-the-badge" alt="httpx">
   <img src="https://img.shields.io/badge/nuclei-ProjectDiscovery-5B5BFF?style=for-the-badge" alt="nuclei">
-</p>
-
-`Segurança da Informação` `Wazuh` `Sysmon` `Hayabusa` `naabu` `httpx` `nuclei` `Monitoramento de Logs` `Análise de Logs` `Triagem de Incidentes` `Firewall` `IAM` `MFA`
-
----
-
-### Soluções Fortinet
-
-<p>
-  <img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiGate">
   <img src="https://img.shields.io/badge/FortiSOC-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiSOC">
   <img src="https://img.shields.io/badge/FortiSIEM-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiSIEM">
-  <img src="https://img.shields.io/badge/FortiSwitch-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiSwitch">
-  <img src="https://img.shields.io/badge/FortiOS-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiOS">
 </p>
 
-`FortiGate` `FortiSOC` `FortiSIEM` `FortiSwitch` `FortiOS`
+`Segurança da Informação` `Wazuh` `Sysmon` `Hayabusa` `naabu` `httpx` `nuclei` `FortiSOC` `FortiSIEM` `Monitoramento de Logs` `Análise de Logs` `Triagem de Incidentes` `Firewall` `IAM` `MFA`
 
 ---
 
@@ -121,9 +109,11 @@ Minha formação complementar inclui conteúdos de **AWS, Linux, Terraform, Fort
   <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik">
   <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge" alt="pfSense">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
+  <img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiGate">
+  <img src="https://img.shields.io/badge/FortiSwitch-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiSwitch">
 </p>
 
-`Wireshark` `TCP/IP` `DNS` `VPN` `VLAN` `NAT` `DHCP` `Endereçamento IP` `Roteadores` `Switches` `Cabeamento Estruturado`
+`Wireshark` `TCP/IP` `DNS` `VPN` `VLAN` `NAT` `DHCP` `Endereçamento IP` `Roteadores` `Switches` `Cabeamento Estruturado` `FortiGate` `FortiSwitch`
 
 ---
 
@@ -170,10 +160,9 @@ Minha formação complementar inclui conteúdos de **AWS, Linux, Terraform, Fort
 
 | Área | Tecnologias e conhecimentos |
 |---|---|
-| **Segurança Cibernética** | Wazuh, Sysmon, Hayabusa, naabu, httpx, nuclei, Segurança da Informação, monitoramento e análise de logs, triagem de incidentes, firewall, IAM, MFA |
-| **Soluções Fortinet** | FortiGate, FortiSOC, FortiSIEM, FortiSwitch, FortiOS |
+| **Segurança Cibernética** | Wazuh, Sysmon, Hayabusa, naabu, httpx, nuclei, FortiSOC, FortiSIEM, Segurança da Informação, monitoramento e análise de logs, triagem de incidentes, firewall, IAM, MFA |
 | **Monitoramento de Rede & Infraestrutura** | Zabbix, Prometheus, ntopng, monitoramento de rede e infraestrutura |
-| **Redes de Computadores** | Wireshark, TCP/IP, DNS, VPN, VLAN, NAT, DHCP, endereçamento IP |
+| **Redes de Computadores** | Wireshark, TCP/IP, DNS, VPN, VLAN, NAT, DHCP, endereçamento IP, FortiGate, FortiSwitch |
 | **Infraestrutura de Rede** | MikroTik, pfSense, roteadores, switches, cabeamento estruturado |
 | **Identidade e Acesso** | Active Directory, IAM, MFA, Identity and User Management |
 | **Sistemas Operacionais** | Windows 10/11, Windows Server, Debian, Ubuntu, RHEL, Kali Linux, Parrot OS, FreeBSD, OpenBSD |
@@ -187,14 +176,14 @@ Minha formação complementar inclui conteúdos de **AWS, Linux, Terraform, Fort
 
 | Área | Prática |
 |---|---|
-| **Cybersecurity** | Monitoramento e análise de eventos utilizando Wazuh; descoberta e análise com naabu, httpx e nuclei |
+| **Cybersecurity** | Monitoramento e análise de eventos utilizando Wazuh; descoberta e análise com naabu, httpx e nuclei; conhecimento de FortiSOC e FortiSIEM |
 | **Endpoint Logging** | Coleta e análise de eventos com Sysmon |
 | **Log Analysis** | Análise de eventos utilizando Hayabusa |
 | **Network Traffic Analysis** | Análise de tráfego de rede com Wireshark |
 | **Incident Triage** | Triagem inicial de alertas e logs |
 | **Network Security** | Configuração de firewall |
 | **Segmentation** | Configuração de VLANs |
-| **Networking** | Configuração de NAT e DHCP |
+| **Networking** | Configuração de NAT e DHCP; conhecimento de FortiGate e FortiSwitch |
 | **Infrastructure** | Laboratórios com pfSense e MikroTik |
 | **Systems** | Windows, Windows Server, Debian, Ubuntu, RHEL, Kali Linux, Parrot OS, FreeBSD e OpenBSD |
 
@@ -251,11 +240,7 @@ Ambiente de estudo utilizado para práticas de **Segurança da Informação, Red
 
 #### Cybersecurity
 
-`Wazuh` `Sysmon` `Hayabusa` `naabu` `httpx` `nuclei` `Firewall`
-
-#### Soluções Fortinet
-
-`FortiGate` `FortiSOC` `FortiSIEM` `FortiSwitch` `FortiOS`
+`Wazuh` `Sysmon` `Hayabusa` `naabu` `httpx` `nuclei` `FortiSOC` `FortiSIEM` `Firewall`
 
 #### Monitoramento de Rede & Infraestrutura
 
@@ -263,7 +248,7 @@ Ambiente de estudo utilizado para práticas de **Segurança da Informação, Red
 
 #### Network Analysis & Networking
 
-`Wireshark` `TCP/IP` `DNS` `VLAN` `NAT` `DHCP` `VPN`
+`Wireshark` `TCP/IP` `DNS` `VLAN` `NAT` `DHCP` `VPN` `FortiGate` `FortiSwitch`
 
 #### Infrastructure
 
@@ -412,7 +397,7 @@ My professional experience includes infrastructure and service monitoring using 
 
 In Cybersecurity and Networking labs, I work with **Wazuh, Sysmon, Hayabusa, naabu, httpx, nuclei, Wireshark, pfSense and MikroTik**, as well as **Windows, Windows Server, Debian, Ubuntu, RHEL, Kali Linux, Parrot OS, FreeBSD and OpenBSD** environments.
 
-I have knowledge of **Fortinet solutions**, including **FortiGate, FortiSOC, FortiSIEM, FortiSwitch and FortiOS**.
+I have knowledge of **Fortinet solutions**, including **FortiGate, FortiSwitch, FortiSOC and FortiSIEM**.
 
 My additional training includes **AWS, Linux, Terraform, Fortinet, Cisco and Microsoft Azure**.
 
@@ -451,23 +436,11 @@ My additional training includes **AWS, Linux, Terraform, Fortinet, Cisco and Mic
   <img src="https://img.shields.io/badge/naabu-ProjectDiscovery-5B5BFF?style=for-the-badge" alt="naabu">
   <img src="https://img.shields.io/badge/httpx-ProjectDiscovery-5B5BFF?style=for-the-badge" alt="httpx">
   <img src="https://img.shields.io/badge/nuclei-ProjectDiscovery-5B5BFF?style=for-the-badge" alt="nuclei">
-</p>
-
-`Information Security` `Wazuh` `Sysmon` `Hayabusa` `naabu` `httpx` `nuclei` `Log Monitoring` `Log Analysis` `Incident Triage` `Firewall` `IAM` `MFA`
-
----
-
-### Fortinet Solutions
-
-<p>
-  <img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiGate">
   <img src="https://img.shields.io/badge/FortiSOC-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiSOC">
   <img src="https://img.shields.io/badge/FortiSIEM-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiSIEM">
-  <img src="https://img.shields.io/badge/FortiSwitch-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiSwitch">
-  <img src="https://img.shields.io/badge/FortiOS-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiOS">
 </p>
 
-`FortiGate` `FortiSOC` `FortiSIEM` `FortiSwitch` `FortiOS`
+`Information Security` `Wazuh` `Sysmon` `Hayabusa` `naabu` `httpx` `nuclei` `FortiSOC` `FortiSIEM` `Log Monitoring` `Log Analysis` `Incident Triage` `Firewall` `IAM` `MFA`
 
 ---
 
@@ -490,9 +463,11 @@ My additional training includes **AWS, Linux, Terraform, Fortinet, Cisco and Mic
   <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik">
   <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge" alt="pfSense">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
+  <img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiGate">
+  <img src="https://img.shields.io/badge/FortiSwitch-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiSwitch">
 </p>
 
-`Wireshark` `TCP/IP` `DNS` `VPN` `VLAN` `NAT` `DHCP` `IP Addressing` `Routers` `Switches` `Structured Cabling`
+`Wireshark` `TCP/IP` `DNS` `VPN` `VLAN` `NAT` `DHCP` `IP Addressing` `Routers` `Switches` `Structured Cabling` `FortiGate` `FortiSwitch`
 
 ---
 
@@ -539,10 +514,9 @@ My additional training includes **AWS, Linux, Terraform, Fortinet, Cisco and Mic
 
 | Area | Technologies and knowledge |
 |---|---|
-| **Cybersecurity** | Wazuh, Sysmon, Hayabusa, naabu, httpx, nuclei, Information Security, log monitoring and analysis, incident triage, firewall, IAM, MFA |
-| **Fortinet Solutions** | FortiGate, FortiSOC, FortiSIEM, FortiSwitch, FortiOS |
+| **Cybersecurity** | Wazuh, Sysmon, Hayabusa, naabu, httpx, nuclei, FortiSOC, FortiSIEM, Information Security, log monitoring and analysis, incident triage, firewall, IAM, MFA |
 | **Network & Infrastructure Monitoring** | Zabbix, Prometheus, ntopng, network and infrastructure monitoring |
-| **Computer Networks** | Wireshark, TCP/IP, DNS, VPN, VLAN, NAT, DHCP, IP addressing |
+| **Computer Networks** | Wireshark, TCP/IP, DNS, VPN, VLAN, NAT, DHCP, IP addressing, FortiGate, FortiSwitch |
 | **Network Infrastructure** | MikroTik, pfSense, routers, switches, structured cabling |
 | **Identity & Access** | Active Directory, IAM, MFA, Identity and User Management |
 | **Operating Systems** | Windows 10/11, Windows Server, Debian, Ubuntu, RHEL, Kali Linux, Parrot OS, FreeBSD, OpenBSD |
@@ -556,14 +530,14 @@ My additional training includes **AWS, Linux, Terraform, Fortinet, Cisco and Mic
 
 | Area | Practice |
 |---|---|
-| **Cybersecurity** | Monitoring and event analysis using Wazuh; discovery and analysis using naabu, httpx and nuclei |
+| **Cybersecurity** | Monitoring and event analysis using Wazuh; discovery and analysis using naabu, httpx and nuclei; knowledge of FortiSOC and FortiSIEM |
 | **Endpoint Logging** | Event collection and analysis using Sysmon |
 | **Log Analysis** | Event analysis using Hayabusa |
 | **Network Traffic Analysis** | Network traffic analysis using Wireshark |
 | **Incident Triage** | Initial triage of security alerts and logs |
 | **Network Security** | Firewall configuration |
 | **Segmentation** | VLAN configuration |
-| **Networking** | NAT and DHCP configuration |
+| **Networking** | NAT and DHCP configuration; knowledge of FortiGate and FortiSwitch |
 | **Infrastructure** | Labs using pfSense and MikroTik |
 | **Systems** | Windows, Windows Server, Debian, Ubuntu, RHEL, Kali Linux, Parrot OS, FreeBSD and OpenBSD |
 
@@ -620,11 +594,7 @@ Study environment used for practical work involving **Information Security, Comp
 
 #### Cybersecurity
 
-`Wazuh` `Sysmon` `Hayabusa` `naabu` `httpx` `nuclei` `Firewall`
-
-#### Fortinet Solutions
-
-`FortiGate` `FortiSOC` `FortiSIEM` `FortiSwitch` `FortiOS`
+`Wazuh` `Sysmon` `Hayabusa` `naabu` `httpx` `nuclei` `FortiSOC` `FortiSIEM` `Firewall`
 
 #### Network & Infrastructure Monitoring
 
@@ -632,7 +602,7 @@ Study environment used for practical work involving **Information Security, Comp
 
 #### Network Analysis & Networking
 
-`Wireshark` `TCP/IP` `DNS` `VLAN` `NAT` `DHCP` `VPN`
+`Wireshark` `TCP/IP` `DNS` `VLAN` `NAT` `DHCP` `VPN` `FortiGate` `FortiSwitch`
 
 #### Infrastructure
 
